@@ -1,0 +1,18 @@
+main{
+    text-align: center;
+    margin-top: 10%;
+    
+}
+
+h1{
+    text-decoration: underline;
+    color: darkslategrey;
+}
+
+label{
+    font-weight: bold;
+}
+
+button{
+    font-weight: bold;
+}
